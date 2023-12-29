@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SatSet" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">@color/black</item> <!-- Warna untuk status bar -->
+
+        <item name="colorAccent">#FF4081</item>
+        <!-- res/values/styles.xml -->
+
+        <!-- Warna tombol untuk tema terang -->
+
+
+    </style>
+
+    <style name="Theme.SatSet" parent="Base.Theme.SatSet" />
+
+
+    <style name="DialgoAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+</resources>

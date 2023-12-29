@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <!-- Gambar film -->
+    <ImageView
+        android:id="@+id/movieThumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/film2" />
+
+    <!-- Judul film -->
+    <TextView
+        android:id="@+id/movieTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OPPENHEIMER"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="10sp"
+        android:textAlignment="center"/>
+
+
+</LinearLayout>

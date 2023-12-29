@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="Widget.Theme.SatSet.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <!-- res/values/styles.xml -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Warna tombol untuk tema terang -->
+        <item name="buttonColor">@color/colorButton_limit</item>
+    </style>
+
+
+</resources>

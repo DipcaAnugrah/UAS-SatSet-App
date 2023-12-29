@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <FrameLayout
+        android:id="@+id/frameVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp">
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="377dp"
+            android:layout_height="201dp"
+            android:layout_weight="1" />
+    </FrameLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/frameVideo"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/sinopsisImageView"
+            android:layout_width="120dp"
+            android:layout_height="160dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/film1" />
+
+        <TextView
+            android:id="@+id/sinopsisTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/sinopsisImageView"
+            android:layout_marginStart="8dp"
+            android:text="Judul Film"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sinopsisRatingTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sinopsisTitleTextView"
+            android:layout_toRightOf="@id/sinopsisImageView"
+            android:text="&#9733; 8.8/10"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="8dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sinopsisRilisTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sinopsisRatingTextView"
+            android:layout_toRightOf="@id/sinopsisImageView"
+            android:text="2010"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="8dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/sinopsisGenreTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sinopsisRilisTextView"
+            android:layout_toRightOf="@id/sinopsisImageView"
+            android:text="Sci-Fi, Action, Thriller, Adventure"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="8dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sinopsisContentTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sinopsisImageView"
+            android:gravity="start"
+            android:text="@string/sinopis_jumanji"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
