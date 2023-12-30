@@ -26,25 +26,32 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 ## **Tampilan & Menu Aplikasi**
 
-<img src="https://github.com/dipca0895/UAS-SatSet-App/blob/main/img/manu.jpg" width=70% height=70%>
+<img src="https://github.com/dipca0895/UAS-SatSet-App/blob/main/img/menu.jpg" width=30% height=30%>
 
 Terdapat 9 menu pada aplikasi tetapi hanya 8 menu yang terdapat program aktif, diantaranya:
 ###  1. **Hello** <br>
 Ini adalah program yang hanya menampilkan teks pada aplikasi. Disini teksnya adalah "Bagaimana kabar anda hari ini?". <br>
-<img src="https://github.com/dipca0895/UAS-SatSet-App/blob/main/img/hello.jpg" width=70% height=70%>
+<img src="https://github.com/dipca0895/UAS-SatSet-App/blob/main/img/hello.jpg" width=30% height=30%>
 
 ### 2. **Count** <br>
 Count adalah program yang menampilkan perhitungan tambah 1 bisa juga disebut program Toast.
 
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/dfa256a5-9a92-460f-9d79-0fbce6265834
 
 ### 3. **Maps** <br>
 Maps adalah program yang menampilkan tampilan maps dari aplikasi Google Maps, program ini menerapkan fungsi Implisit. Implisit intent memungkinkan Anda meminta sistem Android untuk menemukan aplikasi yang sesuai untuk menangani tugas tertentu, dalam hal ini menunjukkan lokasi di peta.
 
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/22ef02bd-47f1-4bf2-b312-0a3e5a04055e
+
 ### 4. **News** <br>
 News adalah program yang menampilkan tampilan seperti Artikel dari sebuah berita. Berita disini adalah tentang **"Ice Cold"**.
 
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/39811a96-8f8d-4434-81c0-3cb175045a65
+
 ### 5. **Alarm** <br>
 Alarm adalah program yang menampilkan alarm menggunakan fungsi dari **AlarmManager**. **AlarmManager** adalah komponen sistem Android yang memungkinkan Anda menjadwalkan dan mengeksekusi kode pada waktu tertentu, baik itu dalam waktu segera, satu kali, atau berulang.
+
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/0fb4f597-ec2f-4528-8320-1c5ec687860b
 
 ### 6. **Fibonacci** <br>
 Fibonacci sesuai dengan namanya program tersebut menampilkan perhitungan dari fibonacci yaitu 1,1,2,3,5,8....dst. berikut adalah fitur dari program tersebut.<br>
@@ -66,8 +73,13 @@ Yaitu semua nilai terkait Fibonacci diatur kembali ke nilai awal, dan tampilan d
 **- Tampilan Baris Fibonacii**  
 Yaitu menampilkan baris berapa dalam perhitungan fibonacci saat ini.
 
+
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/76d96898-99a6-4112-a529-c905454d418d
+
 ### 7. **Chat** <br>
 Chat adalah program yang terdapat 2 fungsi yaitu mengirim pesan dan membalas pesan tetapi ini hanya implementasi dari program **Two Activity**.
+
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/2b03b4fb-6768-4138-9b4b-2a8100cddcd7
 
 ### 8. **Movie** <br>
 Movie adalah program yang dibuat untuk mengimplementasikan fungsi **Fragment** dalam program movie yang saya buat ini terdapat beberapa Fragment dan fitur, diantaranya:<br>
@@ -92,7 +104,10 @@ Movie adalah program yang dibuat untuk mengimplementasikan fungsi **Fragment** d
     adalah fragment yang berisikan pengaturan sistem apliksi dan pengaktifan fitur dan lain sebagainya.
 
 
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/70d98f29-339d-4cb8-81c2-a215dea3dca9
+
 ## **Demo Aplikasi**
 
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/a77220d8-c62a-4d1d-8c3c-7c1bcbc4c1c4
 
 **[Back-->](#uas-saset-app)**
