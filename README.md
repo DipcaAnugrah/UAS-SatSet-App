@@ -12,15 +12,6 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 ## **Daftar Isi**
 **[Tampilan & Menu Aplikasi](#tampilan--menu-aplikasi)**<br>
-- [Hello](#1-hello)<br>
-- [Count](#2-count)<br>
-- [Maps](#3-maps)<br>
-- [News](#4-news)<br>
-- [Alarm](#5-alarm)<br>
-- [Fibonacci](#6-fibonacci)<br>
-- [Chat](#7-chat)<br>
-- [Movie](#8-movie)<br>
-
 **[Link Demo Aplikasi](https://drive.google.com/file/d/1bdJMbSX4AmQGW0bPPirO901kY8R-r_9X/view?usp=sharing)**<br>
 **[Link Langkah-lankah Pembuatan Aplikasi]()**
 
