@@ -36,7 +36,7 @@ Ini adalah program yang hanya menampilkan teks pada aplikasi. Disini teksnya ada
 ### 2. **Count** <br>
 Count adalah program yang menampilkan perhitungan tambah 1 bisa juga disebut program Toast.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/dfa256a5-9a92-460f-9d79-0fbce6265834
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/f8a02fe6-493c-42af-92bd-b5ad6b5d8e92
 
 ### 3. **Maps** <br>
 Maps adalah program yang menampilkan tampilan maps dari aplikasi Google Maps, program ini menerapkan fungsi Implisit. Implisit intent memungkinkan Anda meminta sistem Android untuk menemukan aplikasi yang sesuai untuk menangani tugas tertentu, dalam hal ini menunjukkan lokasi di peta.
