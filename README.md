@@ -21,7 +21,7 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 - [Chat](#7-chat)<br>
 - [Movie](#8-movie)<br>
 
-**[Demo Aplikasi](#demo-aplikasi)**<br>
+**[Link Demo Aplikasi](https://drive.google.com/file/d/1bdJMbSX4AmQGW0bPPirO901kY8R-r_9X/view?usp=sharing)**<br>
 **[Link Langkah-lankah Pembuatan Aplikasi]()**
 
 ## **Tampilan & Menu Aplikasi**
@@ -107,8 +107,5 @@ Movie adalah program yang dibuat untuk mengimplementasikan fungsi **Fragment** d
 
 https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/70d98f29-339d-4cb8-81c2-a215dea3dca9
 
-## **Demo Aplikasi**
-
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/a77220d8-c62a-4d1d-8c3c-7c1bcbc4c1c4
 
 **[Back-->](#uas-saset-app)**
