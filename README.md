@@ -41,17 +41,18 @@ https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/f8a02fe6-493c-42af-
 ### 3. **Maps** <br>
 Maps adalah program yang menampilkan tampilan maps dari aplikasi Google Maps, program ini menerapkan fungsi Implisit. Implisit intent memungkinkan Anda meminta sistem Android untuk menemukan aplikasi yang sesuai untuk menangani tugas tertentu, dalam hal ini menunjukkan lokasi di peta.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/22ef02bd-47f1-4bf2-b312-0a3e5a04055e
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/3a523cbc-71ba-441b-8b56-b6fa8ffc61d8https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/3a523cbc-71ba-441b-8b56-b6fa8ffc61d8
 
 ### 4. **News** <br>
 News adalah program yang menampilkan tampilan seperti Artikel dari sebuah berita. Berita disini adalah tentang **"Ice Cold"**.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/39811a96-8f8d-4434-81c0-3cb175045a65
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/642374ae-0b82-46ee-9660-c8d6be7915c6
 
 ### 5. **Alarm** <br>
 Alarm adalah program yang menampilkan alarm menggunakan fungsi dari **AlarmManager**. **AlarmManager** adalah komponen sistem Android yang memungkinkan Anda menjadwalkan dan mengeksekusi kode pada waktu tertentu, baik itu dalam waktu segera, satu kali, atau berulang.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/0fb4f597-ec2f-4528-8320-1c5ec687860b
+
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/4782b222-6b53-49d5-8715-d2d82228aed8
 
 ### 6. **Fibonacci** <br>
 Fibonacci sesuai dengan namanya program tersebut menampilkan perhitungan dari fibonacci yaitu 1,1,2,3,5,8....dst. berikut adalah fitur dari program tersebut.<br>
@@ -73,13 +74,13 @@ Yaitu semua nilai terkait Fibonacci diatur kembali ke nilai awal, dan tampilan d
 **- Tampilan Baris Fibonacii**  
 Yaitu menampilkan baris berapa dalam perhitungan fibonacci saat ini.
 
-
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/76d96898-99a6-4112-a529-c905454d418d
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/59582961-0899-4ce4-af2b-edc9f867ee91
 
 ### 7. **Chat** <br>
 Chat adalah program yang terdapat 2 fungsi yaitu mengirim pesan dan membalas pesan tetapi ini hanya implementasi dari program **Two Activity**.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/2b03b4fb-6768-4138-9b4b-2a8100cddcd7
+
+https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/0aca9c85-84fd-48fe-b85d-95e17d02fe8d
 
 ### 8. **Movie** <br>
 Movie adalah program yang dibuat untuk mengimplementasikan fungsi **Fragment** dalam program movie yang saya buat ini terdapat beberapa Fragment dan fitur, diantaranya:<br>
