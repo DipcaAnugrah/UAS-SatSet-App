@@ -13,7 +13,7 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 ## **Daftar Isi**
 **[Tampilan & Menu Aplikasi](#tampilan--menu-aplikasi)**<br>
 **[Link Demo Aplikasi](https://drive.google.com/file/d/1bdJMbSX4AmQGW0bPPirO901kY8R-r_9X/view?usp=sharing)**<br>
-**[Link Langkah-lankah Pembuatan Aplikasi]()**
+**[Link Langkah-lankah Pembuatan Aplikasi](https://drive.google.com/file/d/1gF5LTsjIcHeTFYaLtzwEqZ8R24bQVndh/view?usp=sharing)**
 
 ## **Tampilan & Menu Aplikasi**
 
