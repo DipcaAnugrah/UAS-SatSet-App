@@ -1,5 +1,5 @@
 
-<h1> UAS SatSet App</h1>
+<h1 align="center"> UAS SatSet App</h1>
 
 ```
 Nama    : Dipca Anugrah
